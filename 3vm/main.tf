@@ -9,7 +9,7 @@ terraform {
 provider "azurerm" {
 	version = "=1.30.1"
 }
-module "nginx" {
+module "test" {
   source = "./modules/test"
 }
 
