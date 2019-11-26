@@ -1,5 +1,5 @@
 variable "admin_user" {
-	default = "sam"
+	default = "bob"
 }
 variable "prefix" {
 	default = "default"
